@@ -1,5 +1,10 @@
 package de.lubowiecki.gittut;
 
+/**
+ * @author Tomasz Lubowiecki
+ *
+ * Das ist eine ganz tolle App
+ */
 public class App {
 
     public static void main(String[] args) {
